@@ -1,3 +1,24 @@
+# 🔒 Repository Visibility Notice
+
+
+## 🔐 Access for Review
+
+If you would like to review this project for evaluation, partnership, audit, or due diligence purposes, please contact us:
+
+👉 **Telegram:** [https://t.me/Umair_Mu](https://t.me/Umair_Mu)
+
+Access to the organization repository can be provided upon verification.
+
+---
+
+## 🌐 Open-Source Commitment (Stellar)
+
+Everything we build on Stellar will be fully open-sourced in accordance with ecosystem transparency standards.
+
+Stellar-related smart contracts, integrations, and blockchain components will be published publicly.
+
+---
+
 ## Project Repositories
 
 * [Pulse Scout Native Android](https://github.com/pathpulse-ai/pulse-scout-native-android)
@@ -6,7 +27,7 @@
 * [Detection Gallery](https://github.com/Pathpulse-ai/detection-gallery)
 * [New Landing Page](https://github.com/Pathpulse-ai/NewLandingPage)
 
-# 🔒 Repository Visibility Notice
+---
 
 ## Why This Project Repository Is Private
 
@@ -41,15 +62,6 @@ This project includes a **monetized leaderboard system**. Public access to scori
 
 To maintain fairness, prevent cheating, and protect intellectual property, this repository must remain private.
 
----
-
-## 🔐 Access for Review
-
-If you would like to review this project for evaluation, partnership, audit, or due diligence purposes, please contact us:
-
-👉 **Telegram:** [https://t.me/Umair_Mu](https://t.me/Umair_Mu)
-
-Access to the organization repository can be provided upon verification.
 
 ---
 
