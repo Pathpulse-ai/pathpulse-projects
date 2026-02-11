@@ -1,4 +1,4 @@
-# 🔒 Repository Visibility Notice
+# Repository Visibility Notice
 
 
 ## 🔐 Access for Review
@@ -16,16 +16,6 @@ Access to the organization repository can be provided upon verification.
 Everything we build on Stellar will be fully open-sourced in accordance with ecosystem transparency standards.
 
 Stellar-related smart contracts, integrations, and blockchain components will be published publicly.
-
----
-
-## Project Repositories
-
-* [Pulse Scout Native Android](https://github.com/pathpulse-ai/pulse-scout-native-android)
-* [Scout iOS](https://github.com/Pathpulse-ai/Scout_ios)
-* [Validation Dashboard](https://github.com/Pathpulse-ai/Pathpulse-Validation-Dashboard)
-* [Detection Gallery](https://github.com/Pathpulse-ai/detection-gallery)
-* [New Landing Page](https://github.com/Pathpulse-ai/NewLandingPage)
 
 ---
 
@@ -62,6 +52,15 @@ This project includes a **monetized leaderboard system**. Public access to scori
 
 To maintain fairness, prevent cheating, and protect intellectual property, this repository must remain private.
 
+---
+
+## Project Repositories
+
+* [Pulse Scout Native Android](https://github.com/pathpulse-ai/pulse-scout-native-android)
+* [Scout iOS](https://github.com/Pathpulse-ai/Scout_ios)
+* [Validation Dashboard](https://github.com/Pathpulse-ai/Pathpulse-Validation-Dashboard)
+* [Detection Gallery](https://github.com/Pathpulse-ai/detection-gallery)
+* [New Landing Page](https://github.com/Pathpulse-ai/NewLandingPage)
 
 ---
 
