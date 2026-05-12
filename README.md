@@ -36,20 +36,28 @@ To maintain fairness, prevent cheating, and protect intellectual property, this 
 ---
 
 ## 🌐 Projects
-- https://github.com/Pathpulse-ai/pulseflow
-- https://github.com/Pathpulse-ai/pulse-scout-native-android
-- https://github.com/Pathpulse-ai/Scout_ios
-- https://github.com/Pathpulse-ai/pathpulse-fleet-web
-- https://github.com/Pathpulse-ai/pathpulse-backend
-- https://github.com/Pathpulse-ai/scout-admin-dashboard
-- https://github.com/Pathpulse-ai/developer-tools
-- https://github.com/Pathpulse-ai/aptos-daa-service
+
+* [PulseFlow](https://github.com/Pathpulse-ai/pulseflow)
+* [Pulse Scout Native Android](https://github.com/Pathpulse-ai/pulse-scout-native-android)
+* [Scout iOS](https://github.com/Pathpulse-ai/Scout_ios)
+* [PathPulse Fleet Web](https://github.com/Pathpulse-ai/pathpulse-fleet-web)
+* [PathPulse Backend](https://github.com/Pathpulse-ai/pathpulse-backend)
+* [Scout Admin Dashboard](https://github.com/Pathpulse-ai/scout-admin-dashboard)
+* [Developer Tools](https://github.com/Pathpulse-ai/developer-tools)
+* [Aptos DAA Service](https://github.com/Pathpulse-ai/aptos-daa-service)
+
 ---
 
 ## 🔐 Access for Review
 
 If you would like to review this project for evaluation, partnership, audit, or due diligence purposes, please contact us:
 
-👉 **Telegram:** https://t.me/Umair_Mu
+👉 **Umair**
+📧 [umair@pathpulse.ai](mailto:umair@pathpulse.ai)
+💬 Telegram: [@Umair_Mu](https://t.me/Umair_Mu)
+
+👉 **Ibrahim**
+📧 [ibrahim@pathpulse.ai](mailto:ibrahim@pathpulse.ai)
+💬 Telegram: [@ThePixelNomad](https://t.me/ThePixelNomad)
 
 Access to the organization repository can be provided upon verification.
