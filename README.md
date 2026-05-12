@@ -35,12 +35,15 @@ To maintain fairness, prevent cheating, and protect intellectual property, this 
 
 ---
 
-## 🌐 Open-Source Commitment
-
-Selected blockchain integrations, smart contracts, and ecosystem-related components may be open-sourced separately where appropriate and aligned with transparency standards.
-
-Core platform infrastructure, ranking systems, AI logic, and monetization-related systems will remain private.
-
+## 🌐 Projects
+- https://github.com/Pathpulse-ai/pulseflow
+- https://github.com/Pathpulse-ai/pulse-scout-native-android
+- https://github.com/Pathpulse-ai/Scout_ios
+- https://github.com/Pathpulse-ai/pathpulse-fleet-web
+- https://github.com/Pathpulse-ai/pathpulse-backend
+- https://github.com/Pathpulse-ai/scout-admin-dashboard
+- https://github.com/Pathpulse-ai/developer-tools
+- https://github.com/Pathpulse-ai/aptos-daa-service
 ---
 
 ## 🔐 Access for Review
