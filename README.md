@@ -35,11 +35,11 @@ To maintain fairness, prevent cheating, and protect intellectual property, this 
 
 ---
 
-## 🌐 Open-Source Commitment (Stellar)
+## 🌐 Open-Source Commitment
 
-Everything we build on **Stellar** will be fully open-sourced in accordance with ecosystem transparency standards.
+Selected blockchain integrations, smart contracts, and ecosystem-related components may be open-sourced separately where appropriate and aligned with transparency standards.
 
-Stellar-related smart contracts, integrations, and blockchain components will be published publicly.
+Core platform infrastructure, ranking systems, AI logic, and monetization-related systems will remain private.
 
 ---
 
@@ -47,6 +47,6 @@ Stellar-related smart contracts, integrations, and blockchain components will be
 
 If you would like to review this project for evaluation, partnership, audit, or due diligence purposes, please contact us:
 
-👉 **Telegram:** [https://t.me/Umair_Mu](https://t.me/Umair_Mu)
+👉 **Telegram:** https://t.me/Umair_Mu
 
 Access to the organization repository can be provided upon verification.
